@@ -1,0 +1,2 @@
+# snapping-recyclerview
+Snapping RecyclerView
