@@ -1,4 +1,4 @@
-package com.keytotech.snapping_receclerview
+package com.keytotech.snapping_recyclerview
 
 import org.junit.Test
 

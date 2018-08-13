@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.keytotech.snapping_recyclerview.MainActivity">
 
-    <com.keytotech.snapping_receclerview.SnappingRecyclerView
+    <com.keytotech.snapping_recyclerview.SnappingRecyclerView
         android:id="@+id/item_picker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-    </com.keytotech.snapping_receclerview.SnappingRecyclerView>
+    </com.keytotech.snapping_recyclerview.SnappingRecyclerView>
 
 </LinearLayout>
